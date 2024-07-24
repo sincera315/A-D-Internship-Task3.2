@@ -36,6 +36,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
 ## Data Generation
 The synthetic dataset is generated using the `make_classification` function from scikit-learn. It includes 1000 samples and 20 features, of which 10 are informative and 5 are redundant.
